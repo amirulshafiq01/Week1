@@ -4,7 +4,7 @@ public class Aquarium
 
 	public void fillFish()
 	{
-		fish fish1 = new fish();
+		Fish fish1 = new Fish();
 		// fish1.color = "orange";
 		// System.out.println("Many " + fish1.color + " fish here");
 
